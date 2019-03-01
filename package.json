@@ -1,0 +1,32 @@
+{
+  "name": "mno-hyper",
+  "version": "1.0.0",
+  "description": "minimal monochrome theme.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarmcm/mno-hyper.git"
+  },
+  "keywords": [
+    "minimal",
+    "ui",
+    "apex",
+    "black",
+    "white",
+    "hyper",
+    "theme",
+    "grayscale",
+    "monochrome"
+  ],
+  "author": "Oscar Cortez <oscarmcm@pm.me>",
+  "license": "MIT",
+  "scripts": {
+    "start": ""
+  },
+  "bugs": {
+    "url": "https://github.com/pacocoursey/Xi-Hyper/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/pacocoursey/Xi-Hyper#readme"
+}
